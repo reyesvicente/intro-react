@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://reyesvicente.github.io/intro-react/",
   "dependencies": {
+    "gh-pages": "^2.2.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "^3.3.1"
